@@ -79,7 +79,6 @@ function get_walls()
 
         -- Read position and shape of wall
         -- Assume here that it is *thin* and oriented either along the x axis or y axis
-
         -- We can now get the propertries of these walls, e.g....
         local pos = sim.getObjectPosition(handle, -1)
         local res,minx = sim.getObjectFloatParameter(handle,15)
