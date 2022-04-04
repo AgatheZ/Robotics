@@ -1,8 +1,8 @@
 # Robotics
-## Motion.py
+## Motion.lua
 
 Highlighting the uncertainty related to the movement of a robot in Lua, for simulation purposes on CoppeliaSim. 
 
-## MCL.py
+## MCL.lua
 
 Implementation of the Monte Carlo Localisaton method in Lua for simulation purposes on CoppeliaSim. 
